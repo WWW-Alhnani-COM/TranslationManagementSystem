@@ -1,0 +1,13 @@
+C:\Users\Ahmed_ALsharabi\TranslationManagementSystem\TranslationManagementSystem.Core\bin\Debug\net8.0\TranslationManagementSystem.Core.deps.json
+C:\Users\Ahmed_ALsharabi\TranslationManagementSystem\TranslationManagementSystem.Core\bin\Debug\net8.0\TranslationManagementSystem.Core.dll
+C:\Users\Ahmed_ALsharabi\TranslationManagementSystem\TranslationManagementSystem.Core\bin\Debug\net8.0\TranslationManagementSystem.Core.pdb
+C:\Users\Ahmed_ALsharabi\TranslationManagementSystem\TranslationManagementSystem.Core\obj\Debug\net8.0\TranslationManagementSystem.Core.csproj.AssemblyReference.cache
+C:\Users\Ahmed_ALsharabi\TranslationManagementSystem\TranslationManagementSystem.Core\obj\Debug\net8.0\TranslationManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed_ALsharabi\TranslationManagementSystem\TranslationManagementSystem.Core\obj\Debug\net8.0\TranslationManagementSystem.Core.AssemblyInfoInputs.cache
+C:\Users\Ahmed_ALsharabi\TranslationManagementSystem\TranslationManagementSystem.Core\obj\Debug\net8.0\TranslationManagementSystem.Core.AssemblyInfo.cs
+C:\Users\Ahmed_ALsharabi\TranslationManagementSystem\TranslationManagementSystem.Core\obj\Debug\net8.0\TranslationManagementSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed_ALsharabi\TranslationManagementSystem\TranslationManagementSystem.Core\obj\Debug\net8.0\TranslationManagementSystem.Core.sourcelink.json
+C:\Users\Ahmed_ALsharabi\TranslationManagementSystem\TranslationManagementSystem.Core\obj\Debug\net8.0\TranslationManagementSystem.Core.dll
+C:\Users\Ahmed_ALsharabi\TranslationManagementSystem\TranslationManagementSystem.Core\obj\Debug\net8.0\refint\TranslationManagementSystem.Core.dll
+C:\Users\Ahmed_ALsharabi\TranslationManagementSystem\TranslationManagementSystem.Core\obj\Debug\net8.0\TranslationManagementSystem.Core.pdb
+C:\Users\Ahmed_ALsharabi\TranslationManagementSystem\TranslationManagementSystem.Core\obj\Debug\net8.0\ref\TranslationManagementSystem.Core.dll
